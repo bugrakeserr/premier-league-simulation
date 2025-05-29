@@ -44,7 +44,7 @@ A sophisticated Premier League simulator built with Go and Fyne GUI framework, f
 
 ```bash
 # Clone or download the project
-git clone <repository-url>
+git clone <https://github.com/bugrakeserr/premier-league-simulation>
 cd premier-league-simulator
 
 # Install dependencies
